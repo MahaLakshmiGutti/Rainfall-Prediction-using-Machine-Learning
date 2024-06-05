@@ -7,8 +7,8 @@ This project focuses on predicting rainfall using various machine-learning algor
 The dataset used for this project includes historical weather data such as temperature, humidity, wind speed, pressure, and location. The dataset can be obtained from https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
 
 ## Features
-Binary classification model to predict whether it will rain or not the next day.<br>
-Implemented algorithms: Logistic Regression, KNN, Decision Tree, Random Forest, ExtraTrees, GaussainNB, Catboost, XGBoost, GradientBoost, lightgbm, AdaBoost, VotingClassifier.<br>
-Implemented hyperparamter tuning via GridSearchCV<br>
-Utilized KFold Cross-Validation for validation of the model<br>
-The evaluation of the model is done on Accuracy(86.2%),  roc_auc(88.08%).<br>
+Binary classification model to predict whether it will rain or not the next day.<br><br>
+Implemented algorithms: Logistic Regression, KNN, Decision Tree, Random Forest, ExtraTrees, GaussainNB, Catboost, XGBoost, GradientBoost, LightGBM, AdaBoost, VotingClassifier.<br><br>
+Implemented hyperparameter tuning via GridSearchCV<br><br>
+Utilized KFold Cross-Validation for validation of the model<br><br>
+The evaluation of the model is done on Accuracy(86.2%),  roc_auc(88.08%).<br><br>
